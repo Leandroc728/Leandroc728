@@ -1,4 +1,4 @@
-- 👋 Hello, my name is Leandro Moreira.
-- 👀 I'm very exited to learn more and more about graphic design and web development.
-- 🌱 I'm currently mastering my Javascript skills and expading my knowledge by learning some of its "essentials" frameworks (Like Node, React and so on). And also learning graphic design and good development practices.
+- 👋 Olá, meu nome é Leandro.
+- 👀 Estou muito ansioso para aprofundar meus conhecimento e construir um portfolio.
+- 🌱 Atualmente estou aprendendo Python e Machine Learning.
 
